@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - water
+  - magic
+  - green
+  - enemy
+  - yellow
+  - Box
+  - gameOver
+  - f
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemis
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 1184614431
+    locked: 0
+  - name: 2
+    uniqueID: 4106027505
+    locked: 0
+  - name: 3
+    uniqueID: 2871707793
+    locked: 0
+  - name: 4
+    uniqueID: 2652137085
+    locked: 0
+  - name: 5
+    uniqueID: 3286845145
+    locked: 0
+  - name: top
+    uniqueID: 4195493875
+    locked: 0
